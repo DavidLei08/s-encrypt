@@ -1,5 +1,7 @@
 # s-encrypt
 
+![在这里插入图片描述](https://imgconvert.csdnimg.cn/aHR0cHM6Ly93d3cuZGxibG9nLmNsdWIvZmlsZS8yMDIwMDQyNS9welBtaUhzay5wbmc?x-oss-process=image/format,png)
+
 ||加密方式| 安全性 | 是否可逆 |
 |--|--|--|--|
 | 1 | MD5 | 高| 不可逆|
