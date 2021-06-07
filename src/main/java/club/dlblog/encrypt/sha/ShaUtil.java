@@ -14,7 +14,10 @@ public class ShaUtil {
      */
     enum ShaType {
         SHA256("SHA-256"),
-        SHA1("SHA-1");
+        SHA1("SHA-1"),
+        SHA224("SHA-224"),
+        SHA384("SHA-384"),
+        SHA512("SHA-512");
         public String value;
 
         ShaType(String value) {
